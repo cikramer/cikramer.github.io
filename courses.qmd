@@ -1,0 +1,12 @@
+---
+title: "Courses"
+format: html
+---
+
+## Current Courses
+
+-   [STAT545: Exploratory Data Analysis](https://ubc-stat.github.io/STAT545.github.io/webpages/lectures_ii/lec14_quarto.html)
+-   CHBE579: Polymer Science and Engineering
+-   
+
+## Past Courses

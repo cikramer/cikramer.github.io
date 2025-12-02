@@ -3,12 +3,26 @@ project:
   output-dir: docs
 
 website:
+  favicon: images/Clara_Headshot.jpeg
   title: "Clara I. Kramer"
   navbar:
+    search: true
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - courses.qmd
+      - sidebar:projects #this gives the option for projects to have a dropdown menu
+  sidebar: #now we can do some grouping together
+    - id: Projects #linking to the sidebar:projects that we put earlier
+      title: "Projects" #name the project
+      style: "docked" #so that it doesn't move around, can look up for more options
+      background: light #background
+      collapse-level: 2 #only two levels in the drop down
+      contents: #here are what in the drop down. Organize in folders in files, make sure the folder mimic the drop down
+        - Projects/Project1.qmd #make a qmd file for all the pages and put them in files, link them here
+        - Projects/Project2.qmd
+    - id: committee
+
 
 format:
   html:

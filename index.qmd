@@ -1,8 +1,17 @@
 ---
 title: "cikramer.github.io"
+about: 
+  template: jolla
+  image: images/Clara_Headshot.jpeg
+  links:
+    - icon: github
+    - text: Github
+    - href: https://github.com/cikramer
 ---
 
-This is a Quarto website.
+*Ph.D. Student in Chemical and Biological Engineering, University of British Columbia*
+
+*B.S. Materials Science and Engineering, minor Chemistry, University of Utah*
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 

@@ -4,6 +4,57 @@
     "href": "index.html",
     "title": "cikramer.github.io",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Ph.D. Student in Chemical and Biological Engineering, University of British Columbia\nB.S. Materials Science and Engineering, minor Chemistry, University of Utah\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "STAT545: Exploratory Data Analysis\nCHBE579: Polymer Science and Engineering"
+  },
+  {
+    "objectID": "courses.html#current-courses",
+    "href": "courses.html#current-courses",
+    "title": "Courses",
+    "section": "",
+    "text": "STAT545: Exploratory Data Analysis\nCHBE579: Polymer Science and Engineering"
+  },
+  {
+    "objectID": "courses.html#past-courses",
+    "href": "courses.html#past-courses",
+    "title": "Courses",
+    "section": "Past Courses",
+    "text": "Past Courses"
+  },
+  {
+    "objectID": "Projects/Project2.html#links",
+    "href": "Projects/Project2.html#links",
+    "title": "Research Project",
+    "section": "Links",
+    "text": "Links",
+    "crumbs": [
+      "Research Project"
+    ]
+  },
+  {
+    "objectID": "Projects/Project2.html#conferences",
+    "href": "Projects/Project2.html#conferences",
+    "title": "Research Project",
+    "section": "Conferences",
+    "text": "Conferences",
+    "crumbs": [
+      "Research Project"
+    ]
+  },
+  {
+    "objectID": "Projects/Project2.html#committee",
+    "href": "Projects/Project2.html#committee",
+    "title": "Research Project",
+    "section": "Committee",
+    "text": "Committee",
+    "crumbs": [
+      "Research Project"
+    ]
   }
 ]
